@@ -1,10 +1,9 @@
-# ffv
+# fieldfit
 
 ## Intention
 
-ffv stands for finite field verifier. I simply wanted to create a program that would let me verify and create finite fields. Eventually will be used in later projects.
-Author: James Stone
+fieldfit is my attempt at recreating the math behind linear regression with finite fields instead of the typical real numbers.
 
 ## Disclaimers
 
-No ammount of AI was used in the process of coding except for finding documentation and learning specific pythonic pragmatics such as the python based type generics.
+No amount of AI was used in the process of coding except for finding documentation and learning specific pythonic pragmatics such as the python based type generics.
