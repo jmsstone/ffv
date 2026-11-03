@@ -1,6 +1,6 @@
 from collections.abc import Callable
 
-from ffv import Group, GroupValidationError
+from fieldfit import Group, GroupValidationError
 
 
 class FieldValidationError(Exception):
